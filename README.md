@@ -3,8 +3,8 @@
 
 ## Лабораторная 1
 ## [Модель](https://github.com/IrinaSemenova/semen.github.io/blob/master/model.png)
-## [Диаграмма классов] - (https://github.com/IrinaSemenova/semen.github.io/blob/master/Диаграмма%20классов.PNG)
-## [Диаграмма прецендентов] - (https://github.com/IrinaSemenova/semen.github.io/blob/master/Диаграмма%20прецендентов.PNG)
+## [Диаграмма классов](https://github.com/IrinaSemenova/semen.github.io/blob/master/Диаграмма%20классов.PNG)
+## [Диаграмма прецендентов](https://github.com/IrinaSemenova/semen.github.io/blob/master/Диаграмма%20прецендентов.PNG)
 
 ## Лабораторная 2
 
