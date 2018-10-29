@@ -27,9 +27,11 @@
 ## [Декомпозиция блока А4](https://github.com/IrinaSemenova/semen.github.io/blob/master/idf0%202%20ур%20-%204.PNG)
 ## [Декомпозиция блока А44](https://github.com/IrinaSemenova/semen.github.io/blob/master/idf0%202%20ур%20-%204-4.PNG)
 ## Лабораторная 5
-## [DFD блока А32](https://github.com/IrinaSemenova/semen.github.io/blob/master/dfd%20блока%20a32.PNG)
-## [DFD блока А41](https://github.com/IrinaSemenova/semen.github.io/blob/master/dfd%20блока%20a41.PNG)
 * Все используемые хранилища в DFD - это базы данных
+## [DFD блока А32](https://github.com/IrinaSemenova/semen.github.io/blob/master/dfd%20блока%20a32.PNG)
+* Бухгалтер заполняет отчет на основании стоимости путевки. Этот заполненный отчет сохраняется и отправляется в БД (отчеты по расходам) на случай, если детали проводки не до конца уточнены. Далее этот заполенный отчет проводится бухгалтером и отправляется в ту же БД как проведенный отчет.
+## [DFD блока А41](https://github.com/IrinaSemenova/semen.github.io/blob/master/dfd%20блока%20a41.PNG)
+* HR-сотрудник формирует договор на передачу путевки сотруднику. При формировании договора идет взаимодействие с БД: сотрудников, туристических агенств, льгот. По окончании формирования договора, ему присваивается уникальный номер. И этот договор отправляется в БД договоров по путевкам.
 ## [Список баз данных](https://github.com/IrinaSemenova/semen.github.io/blob/master/классификаторы.PNG)
 ## [Ссылка на модель](https://github.com/IrinaSemenova/semen.github.io/blob/master/idf0.rsf)
 ## Лабораторная 6
