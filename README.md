@@ -14,9 +14,10 @@
 ## [DFD ](https://github.com/IrinaSemenova/semen.github.io/blob/master/DFD.PNG)
 ## [Диаграмма прецендентов](https://github.com/IrinaSemenova/semen.github.io/blob/master/преценденты.PNG)
 ## Лабораторная 3
-## [Ссылка на модель](http://127.0.0.1:62529/fullmodel/index.html?id=3)
+## [Ссылка на модель](https://github.com/IrinaSemenova/semen.github.io/blob/master/pdc-tilda.rsf)
+## [DFD](https://github.com/IrinaSemenova/semen.github.io/blob/master/Проект%203.PNG)
 ## [Диаграмма последовательности](https://github.com/IrinaSemenova/semen.github.io/blob/master/Диаграмма%20последовательности.PNG)
-
+## [Схема данных](https://github.com/IrinaSemenova/semen.github.io/blob/master/схема%20данных.PNG)
 ## Лабораторная 4
 
 ## Лабораторная 5
