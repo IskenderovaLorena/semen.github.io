@@ -19,7 +19,10 @@
 ## [Диаграмма последовательности](https://github.com/IrinaSemenova/semen.github.io/blob/master/Диаграмма%20последовательности.PNG)
 ## [Схема данных](https://github.com/IrinaSemenova/semen.github.io/blob/master/схема%20данных.PNG)
 ## Лабораторная 4
-
+* Тема курсовой работы "Разработка автоматизированной подсистемы учета выдачи курортных направлений в организации"
+* Функциональная модель разрабатывается с точки зрения директора организации.
+## [IDF0 Контекстная](https://github.com/IrinaSemenova/semen.github.io/blob/master/idf0.PNG)
+## [IDF0 уровня А0 с 4 блоками](https://github.com/IrinaSemenova/semen.github.io/blob/master/idf0%202%20уровень.PNG)
 ## Лабораторная 5
 
 ## Лабораторная 6
