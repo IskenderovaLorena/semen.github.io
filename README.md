@@ -27,7 +27,11 @@
 ## [Декомпозиция блока А4](https://github.com/IrinaSemenova/semen.github.io/blob/master/idf0%202%20ур%20-%204.PNG)
 ## [Декомпозиция блока А44](https://github.com/IrinaSemenova/semen.github.io/blob/master/idf0%202%20ур%20-%204-4.PNG)
 ## Лабораторная 5
-
+## [DFD блока А32](https://github.com/IrinaSemenova/semen.github.io/blob/master/dfd%20блока%20a32.PNG)
+## [DFD блока А41](https://github.com/IrinaSemenova/semen.github.io/blob/master/dfd%20блока%20a41.PNG)
+* Все используемые хранилища в DFD - это базы данных
+## [Список баз данных](https://github.com/IrinaSemenova/semen.github.io/blob/master/классификаторы.PNG)
+## [Ссылка на модель](https://github.com/IrinaSemenova/semen.github.io/blob/master/idf0.rsf)
 ## Лабораторная 6
 
 ## Лабораторная 7
