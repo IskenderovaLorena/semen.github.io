@@ -23,6 +23,9 @@
 * Функциональная модель разрабатывается с точки зрения директора организации.
 ## [IDF0 Контекстная](https://github.com/IrinaSemenova/semen.github.io/blob/master/idf0.PNG)
 ## [IDF0 уровня А0 с 4 блоками](https://github.com/IrinaSemenova/semen.github.io/blob/master/idf0%202%20уровень.PNG)
+## [Декомпозиция блока A3](https://github.com/IrinaSemenova/semen.github.io/blob/master/idf0%202%20ур%20-%203.PNG)
+## [Декомпозиция блока А4](https://github.com/IrinaSemenova/semen.github.io/blob/master/idf0%202%20ур%20-%204.PNG)
+## [Декомпозиция блока А44](https://github.com/IrinaSemenova/semen.github.io/blob/master/idf0%202%20ур%20-%204-4.PNG)
 ## Лабораторная 5
 
 ## Лабораторная 6
