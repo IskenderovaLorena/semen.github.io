@@ -37,7 +37,7 @@
 ## Лабораторная 6
 ## [Диаграмма прецендентов](https://github.com/IrinaSemenova/semen.github.io/blob/master/Диаграмма%20прецендентов%20Курсовая.PNG)
 ## [Схема баз данных](https://github.com/IrinaSemenova/semen.github.io/blob/master/схема%20БД.PNG)
-## [Диаграмма последовательности](https://github.com/IrinaSemenova/semen.github.io/blob/master/Диаграмма%20последовательности.PNG)
+## [Диаграмма последовательности](https://github.com/IrinaSemenova/semen.github.io/blob/master/курсач%20последоват.PNG)
 
 ## Лабораторная 7
 
