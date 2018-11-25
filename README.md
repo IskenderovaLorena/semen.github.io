@@ -41,7 +41,7 @@
 #### [Ссылка на модель](https://github.com/IrinaSemenova/semen.github.io/blob/master/idf0.rsf)
 ## Лабораторная 6
 #### [ERD для потоков](https://github.com/IrinaSemenova/semen.github.io/blob/master/ERD%20для%20потоков.PNG)
-#### [Схема баз данных](https://github.com/IrinaSemenova/semen.github.io/blob/master/схема%20БД.PNG)
+#### [ERD для ролей](https://github.com/IrinaSemenova/semen.github.io/blob/master/ERD%20для%20ролей.PNG)
 #### [Диаграмма последовательности](https://github.com/IrinaSemenova/semen.github.io/blob/master/курсач%20последоват.PNG)
 
 
