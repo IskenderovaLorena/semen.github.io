@@ -40,7 +40,7 @@
 #### [Список баз данных](https://github.com/IrinaSemenova/semen.github.io/blob/master/классификаторы.PNG)
 #### [Ссылка на модель](https://github.com/IrinaSemenova/semen.github.io/blob/master/idf0.rsf)
 ## Лабораторная 6
-#### [Диаграмма прецендентов](https://github.com/IrinaSemenova/semen.github.io/blob/master/Диаграмма%20прецендентов%20Курсовая.PNG)
+#### [ERD для потоков](https://github.com/IrinaSemenova/semen.github.io/blob/master/ERD%20для%20потоков.PNG)
 #### [Схема баз данных](https://github.com/IrinaSemenova/semen.github.io/blob/master/схема%20БД.PNG)
 #### [Диаграмма последовательности](https://github.com/IrinaSemenova/semen.github.io/blob/master/курсач%20последоват.PNG)
 
