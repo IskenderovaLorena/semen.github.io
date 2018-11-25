@@ -10,7 +10,7 @@
 
 ## Лабораторная 2
 #### [Диаграмма 6 вопросов](https://github.com/IrinaSemenova/semen.github.io/blob/master/2.PNG)
-####[Заполнение блока DO](https://github.com/IrinaSemenova/semen.github.io/blob/master/Декомп%201.PNG)
+#### [Заполнение блока DO](https://github.com/IrinaSemenova/semen.github.io/blob/master/Декомп%201.PNG)
 #### [DFD ](https://github.com/IrinaSemenova/semen.github.io/blob/master/DFD.PNG)
 #### [Диаграмма прецендентов](https://github.com/IrinaSemenova/semen.github.io/blob/master/преценденты.PNG)
 ## Лабораторная 3
