@@ -43,5 +43,6 @@
 #### [ERD для потоков](https://github.com/IrinaSemenova/semen.github.io/blob/master/ERD%20для%20потоков.PNG)
 #### [ERD для ролей](https://github.com/IrinaSemenova/semen.github.io/blob/master/ERD%20для%20ролей.PNG)
 #### [Диаграмма последовательности](https://github.com/IrinaSemenova/semen.github.io/blob/master/курсач%20последоват.PNG)
-
+#### [ERD для модулей](https://github.com/IrinaSemenova/semen.github.io/blob/master/ERD%20для%20модулей.PNG)
+#### [Диаграмма прецендентов](https://github.com/IrinaSemenova/semen.github.io/blob/master/Диаграмма%20прецендентов%20Курсовая.PNG)
 
