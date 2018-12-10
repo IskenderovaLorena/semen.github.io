@@ -46,3 +46,14 @@
 #### [ERD для модулей](https://github.com/IrinaSemenova/semen.github.io/blob/master/ERD%20для%20модулей.PNG)
 #### [Диаграмма прецендентов](https://github.com/IrinaSemenova/semen.github.io/blob/master/Диаграмма%20прецендентов%20Курсовая.PNG)
 
+# Курсовой проект
+## Эффект от проекта
+![x](https://github.com/IrinaSemenova/semen.github.io/blob/master/эффект.PNG)
+## Определение числовых показателей для трудозатрат на разработку программных средств
+* определение числа и сложности функциональных точек для модулей: 3 модуля (экранные формы)
+* определение числа и сложности функциональных точек для хранилищ: UFP = 59, DFP = 55
+* расчет сложности разработки методом FPA/IFPUG : объем программного кода на языках программирования высокого уровня - в 2744 строк кода
+* расчет трудозатрат на разработку "с нуля" методом COCOMO II: оценены общие трудозатраты проекта разработки программных средств в 9 чел/мес , а продолжительность 7 месяцев.
+#### Документ курсового проекта в формате docx - (https://github.com/IrinaSemenova/semen.github.io/blob/master/Semenova_Kursovaya.docx)
+#### Документ курсового проекта в формате pdf - (https://github.com/IrinaSemenova/semen.github.io/blob/master/Semenova_Kursovaya.pdf)
+
